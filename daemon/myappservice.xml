@@ -1,0 +1,31 @@
+<service>
+	<id>myappservice.exe</id>
+	<name>MyAppService</name>
+	<description>My Node.js app running as a Windows service.</description>
+	<executable>C:\laragon\bin\nodejs\node-v18\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\laragon\www\spl_impresora_ticket\index.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>MyAppService wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-Q6FI554</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>C:\laragon\www\spl_impresora_ticket</workingdirectory>
+</service>

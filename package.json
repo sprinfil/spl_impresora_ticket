@@ -1,7 +1,7 @@
 {
   "description": "",
   "main": "server.js",
-  "name": "spl_ticket_plugin", 
+  "name": "spl_ticket_plugin",
   "version": "1.0.0",
   "bin": "server.js",
   "scripts": {
@@ -19,9 +19,18 @@
     "express": "^4.19.2",
     "ffi-napi": "^4.0.3",
     "latest-version": "^9.0.0",
+    "node-windows": "^1.0.0-beta.8",
     "printer": "^0.4.0",
     "ref-napi": "^3.0.3",
     "ref-struct-napi": "^1.1.1",
     "usb": "^2.13.0"
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/usb/prebuilds/win32-x64/node.napi.node"
+    ],
+    "targets": [
+      "node14-win-x64"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+2024-08-19 13:27:42 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-19 13:27:43 - Started 8624

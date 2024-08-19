@@ -1,0 +1,14 @@
+descargar zadig para solucionar problemas de drivers
+
+descargar nssm para convertir a servicio el plugin 
+
+1.- Para iniciar el nssm (ir a la ruta donde esta instalado primero) 
+nssm install 
+
+2.- sigue los pasos de la aplicación y ponle un nombre al servicio
+
+3.- iniciar el servicio con este comando
+nssm start spl-tickets
+
+4.- Para que el servicio se ejecute siempre
+nssm set spl-tickets Start SERVICE_AUTO_START

@@ -67,15 +67,15 @@ const barcode = '23452345';
 const imagePath = `logosapa.png`;
 const qr_url = ``;
 
-// printer.printImage(imagePath)
-//       .then(() => { printer.printTicket(estructura_ticket) })
-//       .then(() => qr_url != null && qr_url != `` ? printer.printQRCode(qr_url) : path.resolve())
-//       .then(() => printer.printBarcode(barcode))
-//       .then(() => console.log('Proceso de impresión completado'))
-//       .catch(err => console.error('Error durante el proceso de impresión:', err));
+printer.printImage(imagePath)
+      .then(() => { printer.printTicket(estructura_ticket) })
+      .then(() => qr_url != null && qr_url != `` ? printer.printQRCode(qr_url) : path.resolve())
+      .then(() => printer.printBarcode(barcode))
+      .then(() => console.log('Proceso de impresión completado'))
+      .catch(err => console.error('Error durante el proceso de impresión:', err));
 
 
-//Listar todas las impresoras disponibles
-printer.listPrinters()
-      .then(printers => console.log('Impresoras disponibles:', printers))
-      .catch(err => console.error('Error:', err));
+// //Listar todas las impresoras disponibles
+// printer.listPrinters()
+//       .then(printers => console.log('Impresoras disponibles:', printers))
+//       .catch(err => console.error('Error:', err));
