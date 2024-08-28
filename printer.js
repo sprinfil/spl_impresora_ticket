@@ -41,10 +41,22 @@ class TicketPrinter {
                     .size(0.2); // Reducir el tamaño de la letra (0.2x0.2)
 
                 content.forEach(element => {
-                    this.printer.font("A");
-                    this.printer.style(element[2]?.toString() ?? "NORMAL");
-                    this.printer.align(element[1].toString());
-                    this.printer.text(element[0].toString());
+                    if (element[3]?.toString() == "TABLE") {
+
+                        this.printer.tableCustom(
+                            [
+                              { text: element[0][0], align: "LEFT", width: 0.33, style:element[2]?.toString() || "NORMAL"},
+                              { text: "", align: "CENTER", width: 0.33 },
+                              { text: "$ " + element[0][1], align: "RIGHT", width: 0.33, style:element[2]?.toString() || "NORMAL"},
+                            ]
+                          )
+                    
+                    } else {
+                        this.printer.font("A");
+                        this.printer.style(element[2]?.toString() || "NORMAL");
+                        this.printer.align(element[1]?.toString());
+                        this.printer.text(element[0]?.toString());
+                    }
                 });
 
                 this.printer.close(() => {
@@ -186,8 +198,6 @@ class TicketPrinter {
             }
         });
     }
-
-
 }
 
 module.exports = TicketPrinter;
