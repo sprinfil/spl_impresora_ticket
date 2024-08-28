@@ -45,9 +45,9 @@ class TicketPrinter {
 
                         this.printer.tableCustom(
                             [
-                              { text: element[0][0], align: "LEFT", width: 0.33, style:element[2]?.toString() || "NORMAL"},
-                              { text: "", align: "CENTER", width: 0.33 },
-                              { text: "$ " + element[0][1], align: "RIGHT", width: 0.33, style:element[2]?.toString() || "NORMAL"},
+                              { text: element[0][0], align: "LEFT", width: 0.61, style:element[2]?.toString() || "NORMAL"},
+                              { text: "", align: "CENTER", width: 0.15 },
+                              { text: "$ " + element[0][1], align: "RIGHT", width: 0.18, style:element[2]?.toString() || "NORMAL"},
                             ]
                           )
                     
