@@ -5,7 +5,7 @@ descargar zadig para solucionar problemas de drivers
 
 descargar nssm para convertir a servicio el plugin 
 
-1.- Para iniciar el nssm (ir a la ruta donde esta instalado primero) 
+1.- Para iniciar el nssm (ir a la ruta donde esta instalado nssm primero) 
 nssm install 
 
 2.- sigue los pasos de la aplicación y ponle un nombre al servicio (spl), la ruta del plugin
