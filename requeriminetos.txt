@@ -1,3 +1,6 @@
+npm install
+pkg .
+
 descargar zadig para solucionar problemas de drivers
 
 descargar nssm para convertir a servicio el plugin 
