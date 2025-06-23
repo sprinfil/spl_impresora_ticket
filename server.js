@@ -96,6 +96,9 @@ app.get('/validar-caja/:nombre', async (req, res) => {
 
     } catch (error) {
         console.error('Error leyendo el archivo:', error);
-        return res.status(500).json({ error: 'No se pudo leer el archivo' });
+        return res.status(500).json({
+        error: 'No se pudo leer el archivo',
+        detalle: error.message 
+    });
     }
 });
