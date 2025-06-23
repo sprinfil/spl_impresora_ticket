@@ -19,3 +19,6 @@ nssm set spl Start SERVICE_AUTO_START
 
 5.- para validar la caja hay que hacer una carpeta llamada CAJAPLUGIN en AppData/Local y dentro crear un archivo llamado caja.txt donde se le pondrá el nombre
 de la caja.
+
+En caso de eliminar servicio usar en cmd:
+sc delete "spl_tickets"
