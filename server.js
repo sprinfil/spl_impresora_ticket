@@ -4,6 +4,8 @@ const app = express();
 const port = 3001;
 const path = require('path');
 const cors = require('cors');
+const fs = require('fs').promises;
+const os = require('os');
 
 app.use(express.json());
 
@@ -70,4 +72,30 @@ process.on('uncaughtException', (err) => {
 //INICIAR EL SERVER
 app.listen(port, () => {
     console.log(`Servidor escuchando en http://localhost:${port}`);
+});
+
+app.get('/validar-caja/:nombre', async (req, res) => {
+    const { nombre } = req.params;
+
+    const archivoPath = path.join(os.homedir(), 'AppData', 'Local', 'CAJAPLUGIN', 'caja.txt'); 
+
+    try {
+        const contenido = await fs.readFile(archivoPath, 'utf8');
+
+        // Elimina saltos de línea y espacios si es necesario
+        const contenidoLimpio = contenido.trim();
+
+        console.log('Nombre recibido:', nombre);
+        console.log('Contenido del archivo:', contenidoLimpio);
+
+        if (contenidoLimpio === nombre) {
+            return res.status(200).json({ valid: true, message: 'Nombre coincide con el contenido del archivo' });
+        } else {
+            return res.status(400).json({ valid: false, message: 'Nombre NO coincide con el contenido del archivo' });
+        }
+
+    } catch (error) {
+        console.error('Error leyendo el archivo:', error);
+        return res.status(500).json({ error: 'No se pudo leer el archivo' });
+    }
 });

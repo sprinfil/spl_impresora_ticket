@@ -1,0 +1,1413 @@
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63
+        this.__open();
+             ^
+
+Error: LIBUSB_ERROR_NOT_SUPPORTED
+    at Device.open (C:\laragon\www\spl_impresora_ticket\node_modules\usb\dist\usb\device.js:63:14)
+    at USB.open (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:110:15)
+    at C:\laragon\www\spl_impresora_ticket\printer.js:135:21
+    at FSReqCallback.oncomplete (node:fs:201:23) {
+  errno: -12
+}
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0
+C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50
+    throw new Error('Can not find printer');
+    ^
+
+Error: Can not find printer
+    at new USB (C:\laragon\www\spl_impresora_ticket\node_modules\escpos-usb\index.js:50:11)
+    at new TicketPrinter (C:\laragon\www\spl_impresora_ticket\printer.js:16:23)
+    at Object.<anonymous> (C:\laragon\www\spl_impresora_ticket\index.js:17:17)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+
+Node.js v18.8.0

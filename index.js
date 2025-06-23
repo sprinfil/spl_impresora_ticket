@@ -45,7 +45,7 @@ estructura_ticket.push([` `, `LT`])
 estructura_ticket.push([`CONCEPTO(S)`, `CT`, `B`])
 estructura_ticket.push([`_________________________________________`, `LT`, `B`])
 estructura_ticket.push([["CONCEPTO", "ABONADO", "RESTANTE"], `LT`, `B`, "TABLE"])
-estructura_ticket.push([["rOMPIMIENTO DE SUELO HIDRAUCLIO PARA TOMAS DIMESTICAS", "$ 200000000"], `LT`, ``, "TABLE"])
+estructura_ticket.push([["rOMPIMIENTO DE SUELO HIDRAUCLIO PARA TOMAS DIMESTICAS","", "$ 200000000"], `LT`, ``, "TABLE"])
 estructura_ticket.push([formatLine(`IVA`, `$20`), `LT`, `B`])
 estructura_ticket.push([`_________________________________________`, `LT`, `B`])
 estructura_ticket.push([` `, `LT`])
@@ -61,7 +61,11 @@ estructura_ticket.push([formatLine(`SALDO PENDIENTE`, `$0`), `LT`])
 estructura_ticket.push([` `, `LT`])
 estructura_ticket.push([` `, `LT`])
 estructura_ticket.push([`pruebas.sapalapaz.gob.mx`, `CT`])
+estructura_ticket.push([` `, `LT`])
+estructura_ticket.push([` `, `LT`])
 
+estructura_ticket.push([["BILLETES", "CANTIDAD","SUBTOTAL"], `LT`, ``, "TABLE"])
+estructura_ticket.push([["rOMPIMIENTO DE SUELO HIDRAUCLIO PARA TOMAS DIMESTICAS", "1","$ 1000000000000.00"], `LT`, ``, "TABLE"])
 
 
 const barcode = '23452345';

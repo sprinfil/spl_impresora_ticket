@@ -1,4 +1,5 @@
 npm install
+
 pkg .
 
 descargar zadig para solucionar problemas de drivers
@@ -15,3 +16,6 @@ nssm start spl
 
 4.- Para que el servicio se ejecute siempre
 nssm set spl Start SERVICE_AUTO_START
+
+5.- para validar la caja hay que hacer una carpeta llamada CAJAPLUGIN en AppData/Local y dentro crear un archivo llamado caja.txt donde se le pondrá el nombre
+de la caja.
