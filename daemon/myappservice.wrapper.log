@@ -74,3 +74,5 @@ Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInter
 2025-05-28 15:00:39 - Started 6256
 2025-06-23 09:31:58 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2025-06-23 09:31:59 - Started 7036
+2025-06-23 11:38:53 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-06-23 11:38:53 - Started 6016

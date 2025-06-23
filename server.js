@@ -77,7 +77,7 @@ app.listen(port, () => {
 app.get('/validar-caja/:nombre', async (req, res) => {
     const { nombre } = req.params;
 
-    const archivoPath = path.join(os.homedir(), 'AppData', 'Local', 'CAJAPLUGIN', 'caja.txt'); 
+    const archivoPath = path.join('C:', 'CAJAPLUGIN', 'caja.txt');
 
     try {
         const contenido = await fs.readFile(archivoPath, 'utf8');
