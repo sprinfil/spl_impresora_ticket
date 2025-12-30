@@ -122,10 +122,11 @@ app.get("/obtenerCaja", async (req, res) => {
   try {
     const contenido = await fs.readFile(archivoPath, "utf8");
 
-    // Elimina saltos de línea y espacios si es necesario
     const contenidoLimpio = contenido.trim();
 
-    return contenidoLimpio;
+    return res.json({
+      caja: contenidoLimpio,
+    });
   } catch (error) {
     console.error("Error leyendo el archivo:", error);
     return res.status(500).json({
