@@ -76,3 +76,47 @@ Stacktrace:   en System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInter
 2025-06-23 09:31:59 - Started 7036
 2025-06-23 11:38:53 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2025-06-23 11:38:53 - Started 6016
+2025-06-27 14:44:38 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-06-27 14:44:39 - Started 3220
+2025-06-27 14:46:12 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-06-27 14:46:12 - Started 5676
+2025-07-09 14:52:20 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-09 14:52:20 - Started 5196
+2025-07-09 14:53:48 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-07-09 14:53:49 - Started 5276
+2025-08-13 10:19:05 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-08-13 10:19:05 - Started 6200
+2025-08-14 08:26:57 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-08-14 08:26:58 - Started 6116
+2025-08-14 08:28:23 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-08-14 08:28:23 - Started 6136
+2025-08-14 08:29:53 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-08-14 08:29:54 - Started 4156
+2025-08-18 08:22:53 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-08-18 08:22:53 - Started 5080
+2025-08-18 08:23:32 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-08-18 08:23:32 - Started 4696
+2025-09-10 15:55:20 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-10 15:55:20 - Started 6124
+2025-09-10 15:58:22 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-09-10 15:58:23 - Started 4836
+2025-10-15 00:01:18 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-15 00:01:18 - Started 5456
+2025-10-15 00:02:53 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-15 00:02:54 - Started 6212
+2025-11-03 08:32:58 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-03 08:32:58 - Started 6192
+2025-11-12 00:42:17 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-12 00:42:17 - Started 6128
+2025-11-12 00:43:57 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-12 00:43:58 - Started 4928
+2025-11-21 09:13:04 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-21 09:13:04 - Started 3852
+2025-11-24 11:44:47 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-24 11:44:47 - Started 6252
+2025-11-25 14:43:23 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-25 14:43:23 - Started 5008
+2025-12-22 09:38:44 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-22 09:38:44 - Started 5836
+2025-12-22 09:40:43 - Starting C:\laragon\bin\nodejs\node-v18\node.exe  --harmony C:\laragon\www\spl_impresora_ticket\node_modules\node-windows\lib\wrapper.js --file C:\laragon\www\spl_impresora_ticket\index.js --scriptoptions= --log "MyAppService wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-12-22 09:40:43 - Started 6308
