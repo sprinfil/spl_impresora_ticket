@@ -25,3 +25,8 @@ de la caja.
 En caso de eliminar servicio usar en cmd:
 sc delete "spl_tickets"
 después detener el servicio en el monitor de servicios de windows
+
+PARAMETROS DE REGLAS
+//[texto, alineación(CT,LT,RT), estilo("","B"), tipo("","TABLE"), tableWidths?, color?(0 = negro, 1 = rojo)]
+[`--RESUMEN DE CUENTA--`, `CT`,"","",null,1]
+

@@ -41,23 +41,24 @@ class TicketPrinter {
           .size(0.1); // Reducir el tamaño de la letra (0.2x0.2)
 
         content.forEach(element => {
+          const color = element[5] ?? 0;  // 0=negro, 1=rojo
+          this.printer.color(color);
+
           if (element[3]?.toString() == "TABLE") {
-
-            this.printer.tableCustom(
-              [
-                { text: element[0][0], align: "LEFT", width: 0.33, style: element[2]?.toString() || "NORMAL" },
-                { text: element[0][1], align: "CENTER", width: 0.33, style: element[2]?.toString() || "NORMAL" },
-                { text: element[0][2], align: "RIGHT", width: 0.33, style: element[2]?.toString() || "NORMAL" },
-              ]
-            )
-
-          }
-          else {
+            const widths = element[4] ?? [0.33, 0.33, 0.33];
+            this.printer.tableCustom([
+              { text: element[0][0], align: "LEFT",   width: widths[0], style: element[2]?.toString() || "NORMAL" },
+              { text: element[0][1], align: "CENTER", width: widths[1], style: element[2]?.toString() || "NORMAL" },
+              { text: element[0][2], align: "RIGHT",  width: widths[2], style: element[2]?.toString() || "NORMAL" },
+            ]);
+          } else {
             this.printer.font("A");
             this.printer.style(element[2]?.toString() || "NORMAL");
             this.printer.align(element[1]?.toString());
             this.printer.text(element[0]?.toString());
           }
+
+          this.printer.color(0); // siempre regresa a negro después de cada elemento
         });
 
         this.printer.close(() => {
